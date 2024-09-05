@@ -18,7 +18,7 @@ I'm a passionate Frontend and Cloud Support Engineer with a knack for creating v
 ## 🚀 Expertise
 
 - **Frontend Development:** HTML, CSS, JavaScript, React, Vue.js.
-- **Cloud Technologies:** Azure, Google Cloud Platform.
+- **Cloud Technologies:** Azure, Google,AWS, Cloud Platform.
 - **Version Control:** Git, GitHub.
 - **Problem Solving:** Analytical thinker with strong troubleshooting skills.
 - **Communication:** Excellent interpersonal and teamwork abilities.
